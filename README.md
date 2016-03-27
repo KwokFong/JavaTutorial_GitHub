@@ -1,1 +1,1 @@
-# JavaTutorial_GitHub
+Sample Java Tutorial from udemy.com
