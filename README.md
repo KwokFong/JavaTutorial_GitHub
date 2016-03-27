@@ -1,1 +1,3 @@
-Sample Java Tutorial from udemy.com
+Java Tutorial from udemy.com:
+https://www.udemy.com/java-tutorial/
+
