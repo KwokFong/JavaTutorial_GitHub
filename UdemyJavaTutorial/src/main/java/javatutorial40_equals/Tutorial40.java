@@ -1,6 +1,10 @@
 package javatutorial40_equals;
 
-import java.util.ArrayList;
+/*
+ * udemy: Java Tutorial
+ * https://www.udemy.com/java-tutorial/
+ * Lecture 40: equals vs ==
+ */
 
 class Person {
 	private int id;
